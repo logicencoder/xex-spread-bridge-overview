@@ -1,5 +1,7 @@
 # XEX Spread Monitor
 
+![MEXC and Gate spread comparison](assets/overview-2026-10-24.png)
+
 A price difference between exchanges is difficult to assess when each market is viewed separately. XEX Spread Monitor brings shared MEXC and Gate markets into one comparison board, helping users find gaps worth investigating and review them alongside volume and history.
 
 ## Tech stack
