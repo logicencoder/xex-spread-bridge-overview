@@ -1,6 +1,6 @@
 # XEX Spread Monitor
 
-![MEXC and Gate spread comparison](assets/overview-2026-10-24.png)
+![MEXC and Gate spread comparison](assets/xex-spread-monitor-mexc-gate-spread-table.png)
 
 The same coin often trades at slightly different prices on different exchanges, and most of the difference disappears once fees are paid. The XEX Spread Monitor compares every pair that is listed on both MEXC and Gate in USDT, refreshes the comparison every thirty seconds and keeps a log of every snapshot, so a reader can tell a lasting price gap from a one-off glitch and see which gaps are still positive after round-trip fees. It runs on [logicencoder.com](https://logicencoder.com) from public price data.
 
